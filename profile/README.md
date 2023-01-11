@@ -17,4 +17,4 @@ The domain currently hosts the following subdomains:
 
 ## Submit entries
 
-You can submit new entries through each repository's issue-tracker. Alternatively can you als PR them directly to be added. Just make sure to follow any necessary file and folder structure.
+You can submit new entries through each repository's issue-tracker. Alternatively can you also PR them directly to be added. Just make sure to follow any necessary file and folder structure.
