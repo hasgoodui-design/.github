@@ -8,9 +8,11 @@ The main goal is not to attack the individuals mentioned, but to poke some fun a
 
 The domain currently hosts the following subdomains:
 
+- [`we-are.hasgoodui.design`][we-are] - Main page about ourself and what we do.
 - [`actually.hasgoodui.design`][actually] - Lists sites, services, etc. with actual good UIs.
 - [`discord.hasgoodui.design`][discord] - Lists messed up UI designs by [Discord][discord-website].
 
+[we-are]: https://we-are.hasgoodui.design
 [actually]: https://actually.hasgoodui.design
 [discord]: https://discord.hasgoodui.design
 [discord-website]: https://discord.com
